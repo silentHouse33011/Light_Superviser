@@ -1,2 +1,3 @@
 # Light_Superviser
-The program to controll other program
+The program to controls other programs
+
