@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
                                 "if u want to look which services has run write look_all\n"
                                 "if u want to exit, write exit ";
         in >> answer;
-        \
+       
         switch(mapping[answer])
         {
             case 1:
